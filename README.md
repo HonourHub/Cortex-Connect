@@ -55,7 +55,8 @@ cortex-connect/
 Clone the repository:
 
 ```bash
-git clone https://github.com/HonourHub/Cortex-Connect```
+git clone https://github.com/HonourHub/Cortex-Connect.git
+```
 
 Open `index.html` in your browser.
 
