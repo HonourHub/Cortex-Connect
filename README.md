@@ -34,10 +34,11 @@ Shows how repeated activity strengthens neural connections through an interactiv
 ## Tech Stack
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript (ES6)
 - SVG / Canvas API
-- Git & GitHub
-- GitHub Pages
+- Git
+- GitHub
+- GitHub Pages (Deployment)
 
 ## Folder Structure
 
