@@ -51,3 +51,17 @@ cortex-connect/
 ├── js/
 └── assets/
 
+## Getting Started
+
+Clone the repository:
+
+git clone https://github.com/yourusername/cortex-connect.git
+
+Open `index.html` in your browser.
+
+## Future Plans
+
+- Add more neuroscience modules
+- Improve animations
+- Add dark/light mode
+- Include user progress tracking
