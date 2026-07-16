@@ -40,22 +40,22 @@ Shows how repeated activity strengthens neural connections through an interactiv
 - GitHub Pages
 
 ## Folder Structure
-```txt
+
+```text
 cortex-connect/
 ├── index.html
 ├── about.html
-├── action-potentials.html
-├── brain-structure.html
-├── neuroplasticity.html
 ├── css/
-├── js/
-└── assets/
+└── js/
+```
 
 ## Getting Started
 
 Clone the repository:
 
+```bash
 git clone https://github.com/yourusername/cortex-connect.git
+```
 
 Open `index.html` in your browser.
 
